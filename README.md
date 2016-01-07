@@ -74,4 +74,5 @@ NGO Solutions Prototype Screens
 ![alt tag](https://github.com/SowmyaA/NGOSolutions/blob/master/images/sc3.png)
 
 
+Note : This is an sample data. Does not belong to any particular organization / community in general. 
 
