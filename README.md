@@ -18,7 +18,7 @@ Problem :
 
  
 
-![alt tag](https://github.com/SowmyaA/NGOSolutions/blob/master/images/Pblm.png)
+![alt tag](https://github.com/SowmyaA/NGOSolutions/blob/master/images/pblm.png)
 
 Helping hands not reaching out to the beneficiaries. Below are the few factors which is contributing to this problem 
 1.Government spends humongous budget for social welfare schemes and data collection. 
