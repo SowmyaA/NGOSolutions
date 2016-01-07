@@ -1,3 +1,5 @@
+
+
 NGO Solutions  
 
 NGO Solutions is the portal / app developed in International Women's Day Hackathon. This is a one stop portal to view all region wise demographic data related to various issues like women literacy, children malnutrition, child labour and many. Based on which decision makers can strategies their plans and mission. It's a mash up of data. Data comes from various sources like government offices and online portals, census data, research papers and many.
@@ -16,7 +18,7 @@ Problem :
 
  
 
-Prblm.png
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/Pblm.png)
 
 Helping hands not reaching out to the beneficiaries. Below are the few factors which is contributing to this problem 
 1.Government spends humongous budget for social welfare schemes and data collection. 
@@ -29,7 +31,7 @@ Goal :
 
  
 
-Cube.png
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/cube.png)
 1.Create collaboration between government, NGO’s and MNC’s.
 2.Mash up of data – Data comes from multiple sources like census bureau, online portals, government offices, research papers and many.
 3.Having a website which shows mashup of data so that NGO’s and MNC’s and government itself can use them to make decision and plan there strategy  to achieve their goal and mission in addressing various cause. 
@@ -44,7 +46,7 @@ Potential Impact and Benefits :
 
  
 
-Untitled.png
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/GTM.png)
 1.Presents demographic data with  and heat maps which helps the decision makers when planning their mission for a specific cause.    
 2.Data mashup - Data comes from various sources like government offices and online portals, census data, research papers and many. For the prototype district wise data of Indian state Tamil Nadu is taken from joint medical director office, Chennai, India.
 3.Mutual collaboration between government , NGO and MNC's.
@@ -55,7 +57,8 @@ Untitled.png
 
 Technology Stack 
 
-TS.png
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/Tech.png)
+
 1.The application is on Angular JS. It is a light weight java script framework.
 2.Bootstrap is used for styles and building responsive design.
 3.D3.js and Dimple.js are used for creating charts.
@@ -65,9 +68,11 @@ TS.png
 
 NGO Solutions Prototype Screens
 
-WelcomePage.jpg
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/sc1.png)
 
-WomenLiteracy.jpg
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/sc2.png)
 
-Literacy_ChartsDate.jpg
+![alt tag](https://github.com/SowmyaA/NGOSolutions/tree/master/images/sc3.png)
+
+
 
